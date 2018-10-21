@@ -2,13 +2,46 @@
 
 -------------------     ----------------------------
 
-<p style="text-align: center">
+<center>
 
-**Email**: ms.hernandeza1@gmail.com | **Blog**: https://medium.com/@ms.hernandeza1 | **Github**: https://github.com/Ms-Alex
+**Email**: ms.hernandeza1@gmail.com | **Blog**: https://medium.com/@ms.hernandeza1 | **Github**: https://github.com/Ms-Alex 
 
-</p>
+</center>
 
 -------------------     ----------------------------
+<div style="width: 100%">
+
+<div style="float: left; margin: 5%">
+
+## Technical Skills
+
+|    Strong         |       Knowledgeable       |
+|   :--------:      |    :--------:             | 
+|   Git             |       Redux               | 
+|   JavaScript      |       Ruby                | 
+|   React           |       Rails               | 
+|   Node            |       SQL                 |
+|   Express         |       Postgres            |
+|   MongoDB         |                           |
+
+</div>
+
+<div style="float: right; margin: 5%;">
+
+## Soft Skills
+
+|    Skill          |       Details                                    |
+|    :--------:     |       --------                                   | 
+|   Collaboration   |       Tech presentations, pair programming                                                                                | 
+|   Communication   |       Inform others of project ideas and changes                                                                          | 
+|   Adaptability    |       Quickly become adept at other roles, and team environments                                                      | 
+|   Time-management |       Prioritize major components of project, guesstimate project time length times three                            |
+
+</div>
+
+</div>
+
+<div>
 
 ## Technical Projects
 
@@ -61,3 +94,19 @@
 
 
 ## Education
+
++ **Flatiron School** - NY, USA
+
+    *September 2018*
+
+    + Software Engineer, Ruby on Rails and JavaScript immersive program
+
+
++ **University of South Florida** - FL, USA
+
+    *May 2016*
+
+    + Degree: International	 Studies
+
+
+</div>
