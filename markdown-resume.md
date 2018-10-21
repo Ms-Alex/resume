@@ -9,9 +9,12 @@
 </center>
 
 -------------------     ----------------------------
-<div style="width: 100%">
 
-<div style="float: left; margin: 5%">
+<div>
+
+-------------------     ----------------------------
+
+<div style="float: left; margin: 5%; width: 40%">
 
 ## Technical Skills
 
@@ -26,7 +29,7 @@
 
 </div>
 
-<div style="float: right; margin: 5%;">
+<div style="float: right; margin: 5%; width: 40%">
 
 ## Soft Skills
 
@@ -41,7 +44,10 @@
 
 </div>
 
-<div>
+
+<div style="clear: right">
+
+-------------------     ----------------------------
 
 ## Technical Projects
 
