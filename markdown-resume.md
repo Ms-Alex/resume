@@ -45,7 +45,7 @@
 </div>
 
 
-<div style="clear: right">
+<!-- <div style="clear: right"> -->
 
 -------------------     ----------------------------
 
@@ -115,4 +115,4 @@
     + Degree: International	 Studies
 
 
-</div>
+<!-- </div> -->
