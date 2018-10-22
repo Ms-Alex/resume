@@ -1,8 +1,8 @@
+<center>
+
 # Alexandra Hernandez | Full Stack Web Developer
 
 -------------------     ----------------------------
-
-<center>
 
 **Email**: ms.hernandeza1@gmail.com | **Blog**: https://medium.com/@ms.hernandeza1 | **Github**: https://github.com/Ms-Alex 
 
@@ -10,40 +10,7 @@
 
 -------------------     ----------------------------
 
--------------------     ----------------------------
-
-<div style="float: left; margin: 5%; width: 40%">
-
-## Technical Skills
-
-|    Strong         |       Knowledgeable       |
-|   :--------:      |    :--------:             | 
-|   Git             |       Redux               | 
-|   JavaScript      |       Ruby                | 
-|   React           |       Rails               | 
-|   Node            |       SQL                 |
-|   Express         |       Postgres            |
-|   MongoDB         |                           |
-
-</div>
-
-<div style="float: right; margin: 5%; width: 40%">
-
-## Soft Skills
-
-|    Skill          |       Details                                    |
-|    :--------:     |       --------                                   | 
-|   Collaboration   |       Tech presentations, pair programming                                                                                | 
-|   Communication   |       Inform others of project ideas and changes                                                                          | 
-|   Adaptability    |       Quickly become adept at other roles, and team environments                                                      | 
-|   Time-management |       Prioritize major components of project, guesstimate project time length times three                            |
-
-</div>
-
-
-<div style="clear: right">
-
--------------------     ----------------------------
+> I’m passionate about problem solving and creating applications that users will enjoy. With hands-on experience using Ruby on Rails, as well as declarative user interfaces using React with Redux. Also, having worked abroad in Japan, I have the necessary soft skills for the job: an open mind, communication, and adaptability. I’m enthusiastic about entering a technical track career in application development.
 
 ## Technical Projects
 
@@ -74,6 +41,18 @@
     + Custom Css used to layout text divs on image divs
     + Used Postgres to manage database
     + Also, built API using Ruby on Rails and the MVC pattern
+
+## Technical Skills
+
++ **Strong:** Git, JavaScript, React, Node, Express, MongoDB
++ **Knowledgeable:** Redux, Ruby, Rails, SQL, Postgres
+
+
+## Soft Skills
++ **Collaboration:** Tech presentations, pair programming 
++ **Communication:** Inform others of project ideas and changes
++ **Adaptability:** Quickly become adept at other roles, and team environments 
++ **Time-management:** Prioritize major components of project, guesstimate project time length times three 
 
 
 ## Employment History
@@ -110,5 +89,3 @@
 
     + Degree: International	 Studies
 
-
-</div>
