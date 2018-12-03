@@ -6,7 +6,7 @@
 
 -------------------     ----------------------------
 
-> I’m passionate about problem solving and creating applications that users will enjoy. I’ve been exposed and have hands-on experience using different technologies. I’m enthusiastic about entering a technical track career in application development.
+> I’m passionate about problem solving and creating applications that users will enjoy. I’ve been exposed to, and have hands-on experience using different technologies. I’m enthusiastic about entering a technical track career in application development.
 
 ## Technical Projects
 
@@ -25,7 +25,7 @@
 
     *An arcade-style, catch-the-apples type of game, but with a twist: avoid the beehives!*
 
-    + Used custom CSS to design the frontend
+    + Used custom CSS to design the frontend, with some Bootstrap
     + Game logic done with pure vanilla Javascript, no outside game libraries
     + Built API using Ruby on Rails and the MVC pattern
     + Collaborated and pair programmed to create project
